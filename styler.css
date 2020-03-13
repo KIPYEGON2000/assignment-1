@@ -1,7 +1,7 @@
 *{margin:0px}
 
 body{background:skyblue }
-header{height:40px;background:steelblue}
+header{height:60px;background:steelblue}
 nav ul {list-style:none;padding:10px}
 nav ul li {display:inline;padding:0px 100px 20px 20px;font-size:150%}
 * a{text-decoration:none;color:blue}
