@@ -1,0 +1,22 @@
+*{margin:0px}
+
+body{background:skyblue }
+header{height:40px;background:steelblue}
+nav ul {list-style:none;padding:10px}
+nav ul li {display:inline;padding:0px 100px 20px 20px;font-size:150%}
+* a{text-decoration:none;color:blue}
+table,th,td{border:2px solid black;width:100%}
+h1{text-align:center;color:red;}
+.cv{background:transparent;width:50%;float:left;margin:10px}
+.inleft{float:left}
+.desc{left:60%;position:absolute;top:100%;background:steelblue}
+button{background:white;height:30px}
+#logo{width:20%;height:5%;float:right;padding-left:4px}
+.java{position:absolute;left:50%;top:70%;background:white;height:30px}
+#foot{position:absolute;top:80%;left:70%}
+li {font-size:200%;margin:30px}
+.inright{left:60%;position:absolute;top:50%;background:gray}
+.click{position:absolute;left:32%;top:70%;color:brown}
+nav ul li a:hover{background:blue;padding:5px}
+	p{font-size:20px;margin:10px}
+	
